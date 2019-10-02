@@ -1,0 +1,12 @@
+{
+  "appName": "WSLNM",
+  "subtitle": "test subtitle",
+  "api_address": "https://liveil.souep.cn/api/get-files",
+  "gitea_server": "https://g.souep.cn",
+  "token": "19a2fe43892584664475aa5ebbac579409523a2d",
+  "user": "TimmyOVO",
+  "repo": "Liveil",
+  "port": 8787,
+  "notification_title": "下载中",
+  "notification_message": "请查看下载内容"
+}

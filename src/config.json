@@ -1,0 +1,7 @@
+{
+  "appName": "Liveil",
+  "subtitle": "一个正在测试的广告过滤器",
+  "api_address": "https://liveil.souep.cn/api/get-files",
+  "notification_title": "下载中",
+  "notification_message": "请注意查看下载内容"
+}
